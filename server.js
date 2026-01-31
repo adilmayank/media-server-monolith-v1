@@ -47,7 +47,7 @@ async function createTransport() {
         listenIps: [
             {
                 ip: "0.0.0.0",   // 🔥 IMPORTANT
-                announcedIp: process.env.PUBLIC_IP
+                announcedIp: '3.110.208.212'
             }
         ],
 
