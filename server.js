@@ -47,7 +47,7 @@ async function createTransport() {
         listenIps: [
             {
                 ip: "0.0.0.0",   // 🔥 IMPORTANT
-                announcedIp: '13.233.157.192'
+                announcedIp: '13.235.76.164'
             }
         ],
 
